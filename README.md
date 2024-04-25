@@ -13,7 +13,7 @@ This Jupyter notebook offers a detailed approach to detecting lung diseases usin
 
 - Python 3
 - Libraries: NumPy, pandas, Matplotlib, Scikit-learn, TensorFlow/Keras
-- Dataset: [Links to publicly available lung disease imaging datasets.](https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images)
+- Dataset: [lung disease imaging datasets.](https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images)
 
 ### Prerequisites
 
